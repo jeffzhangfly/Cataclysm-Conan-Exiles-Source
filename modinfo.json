@@ -1,0 +1,16 @@
+{
+	"name": "CataclysmServerMod2",
+	"description": "The Cataclysm is coming...\nCataclysm offers a unique experience to players willing to commit to harsh conditions. We are a new server with plans for custom content.\nWe want to offer a PvPvE experience with long-term PvP goals. PvE is always welcome but the end-game goal is to create a PvP system on our server that makes the grind worth-while. We want to create a World that you want to play in so work with us and help us figure out the best gameplay experience for everyone!\n\nhttp://cataclysm.duchmorri.com/\nhttps://www.patreon.com/conancataclysm\nhttps://discord.gg/BmV5CQyeFw\n\nSpecial Thanks to our Patreons:\nLoki\nSakai\nDemon Goat\nN3r0\nSkordina\nNina\nKatteru",
+	"changeNote": "- Obsidian Cave Fixs\n- map Updated to show Cave",
+	"author": "CaptainJjack",
+	"authorUrl": "http://cataclysm.duchmorri.com/",
+	"versionMajor": 1,
+	"versionMinor": 2,
+	"versionBuild": 12,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2368333351",
+	"steamVisibility": 0,
+	"folderName": "Cat_Mod2f",
+	"revisionNumber": 279274,
+	"snapshotId": 28446
+}
